@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Edyoda Stories</title>
+        <link rel="stylesheet" href="./Assignment_edstory.css">
+    </head>
+<body>
+    <div id="root">
+            <div class="uptop">
+                <header>
+                    <div class="topbar">
+                        <div class="edsto">
+                            <div class="edyoda-logo">EDYODA</div>
+                            <p class="stories-logo">Stories</p>
+                        </div>
+                    </div>
+                </header>
+            </div>
+            <div class="homepage">
+                <div class="trending_post">
+                    <h1 class="trending_post1">Trending Posts</h1>
+                        <div class="ftrsec">
+                                <img src="https://img.icons8.com/fluency/50/000000/filter.png"/> 
+                              <style>
+                                img {
+                                    width: 2%;
+                                    height: 5%;
+                                    margin-top: 11px;
+                                }
+                                </style>
+                            <p class="fbc">Filter by Category</p>                   
+                        </div>
+                        <div class="ftrcont">
+                            <div class="contitems_all">All</div>
+                            <div class="contitems">Artificial intelligence</div>
+                            <div class="contitems">Cloud Computing</div>
+                            <div class="contitems">DevOps</div>
+                            <div class="contitems">Programming Languages</div>
+                            <div class="contitems">Mobile Application Development</div>
+                            <div class="contitems">Tech and Tools</div>
+                            <div class="contitems">Get a Job in Tech Company</div>
+                            <div class="contitems">Others</div>
+                        </div>
+                        <div class="cardsec">
+                            <div class="card">
+                                <div class="imgcont">                            
+                                <img class="card-img-top" src="https://edyoda.s3.amazonaws.com/media/blog-images/learn_machine_learning_courses_online.png" alt="Card img cap">
+                               </div>
+                                <div class="card-body">
+                                  <h3 class="card-title">
+                                      <div class="lines">Introduction To A Machine...</div></h3>
+                                  <p class="authorname">Bineet Chakhaiyar<span class="date"> | 03 Aug 2021</span></p>
+                                  <div class="description"><div>We have had an insight into Artificial Intelligence.Well. one of its subfields is machine learning an...</div></div>
+                                </div>
+                              </div>
+                              <div class="card">
+                                <div class="imgcont">                            
+                                <img class="card-img-top" src="https://edyoda.s3.amazonaws.com/media/blog-images/6.png" alt="Card img cap">
+                               </div>
+                                <div class="card-body">
+                                  <h3 class="card-title">
+                                      <div class="lines">LAMP Stack Vs MEAN stack..</div></h3>
+                                  <p class="authorname">Bineet Chakhaiyar<span class="date"> | 03 Aug 2021</span></p>
+                                  <div class="description"><div>In today's dynamic world. developing a rapid applicatiob with a smooth user interface that can...</div></div>
+                                </div>
+                              </div>
+                              <div class="card">
+                                <div class="imgcont">                            
+                                <img class="card-img-top" src="https://edyoda.s3.amazonaws.com/media/blog-images/4.png" alt="Card img cap">
+                               </div>
+                                <div class="card-body">
+                                  <h3 class="card-title">
+                                      <div class="lines">Impact of Cloud...</div></h3>
+                                  <p class="authorname">Bineet Chakhaiyar<span class="date"> | 03 Aug 2021</span></p>
+                                  <div class="description"><div>Cloud Computing has been rapidly gaining pace in the world of information technology.It has...</div></div>
+                                </div>
+                              </div>
+                              <div class="card">
+                                <div class="imgcont">                            
+                                <img class="card-img-top" src="https://edyoda.s3.amazonaws.com/media/blog-images/3.png" alt="Card img cap">
+                               </div>
+                                <div class="card-body">
+                                  <h3 class="card-title">
+                                      <div class="lines">Challenges of Machine...</div></h3>
+                                  <p class="authorname">Bineet Chakhaiyar<span class="date"> | 03 Aug 2021</span></p>
+                                  <div class="description"><div>Machine Learning is a subset of artificial intelligence which is an important part of computer science....</div></div>
+                                </div>
+                              </div>
+                              <div class="card">
+                                <div class="imgcont">                            
+                                <img class="card-img-top" src="https://edyoda.s3.amazonaws.com/media/blog-images/5.png" alt="Card img cap">
+                               </div>
+                                <div class="card-body">
+                                  <h3 class="card-title">
+                                      <div class="lines">Breaking the Myths around..</div></h3>
+                                  <p class="authorname">Bineet Chakhaiyar<span class="date"> | 03 Aug 2021</span></p>
+                                  <div class="description"><div>Cybersecurity plays an integral role in the process of good business models. But even cybersecurity...</div></div>
+                                </div>
+                              </div>
+                              <div class="card">
+                                <div class="imgcont">                            
+                                <img class="card-img-top" src="https://edyoda.s3.amazonaws.com/media/blog-images/7.png" alt="Card img cap">
+                               </div>
+                                <div class="card-body">
+                                  <h3 class="card-title">
+                                      <div class="lines">Importance of Data Backup..</div></h3>
+                                  <p class="authorname">Bineet Chakhaiyar<span class="date"> | 03 Aug 2021</span></p>
+                                  <div class="description"><div>A business must always introspect the areas where they lack in order to bring about a positive...</div></div>
+                                </div>
+                              </div>
+                              <div class="card">
+                                <div class="imgcont">                            
+                                <img class="card-img-top" src="https://edyoda.s3.amazonaws.com/media/blog-images/automation-testing-an-overview-2.png" alt="Card img cap">
+                               </div>
+                                <div class="card-body">
+                                  <h3 class="card-title">
+                                      <div class="lines">What is Web Scraping?</div></h3>
+                                  <p class="authorname">Bineet Chakhaiyar<span class="date"> | 03 Aug 2021</span></p>
+                                  <div class="description"><div>Simply put, web scraping is one of the tools developers use to gather and analyze information from the...</div></div>
+                                </div>
+                              </div>
+                              <div class="card">
+                                <div class="imgcont">                            
+                                <img class="card-img-top" src="https://edyoda.s3.amazonaws.com/media/blog-images/what_is_isa_blog_1.png" alt="Card img cap">
+                               </div>
+                                <div class="card-body">
+                                  <h3 class="card-title">
+                                      <div class="lines">What is Income Share..</div></h3>
+                                  <p class="authorname">Bineet Chakhaiyar<span class="date"> | 03 Aug 2021</span></p>
+                                  <div class="description"><div>The term Income Share Agreement has been around for a long time since 1955 to be precise....</div></div>
+                                </div>
+                              </div>
+                              <div class="card">
+                                <div class="imgcont">                            
+                                <img class="card-img-top" src="https://edyoda.s3.amazonaws.com/media/blog-images/practical_machine_learning_1.png" alt="Card img cap">
+                               </div>
+                                <div class="card-body">
+                                  <h3 class="card-title">
+                                      <div class="lines">Practical Machine...</div></h3>
+                                  <p class="authorname">Bineet Chakhaiyar<span class="date"> | 03 Aug 2021</span></p>
+                                  <div class="description"><div>Machine learning is a field of artificial intelligence that uses statistical techniques to give computer...</div></div>
+                                </div>
+                              </div>
+                        </div>
+
+                </div>
+            </div>
+            <div class="footer">
+
+            </div>
+        </div>
+    </div>    
+</body>
+</html>
